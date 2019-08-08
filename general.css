@@ -1,0 +1,20 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-container {
+  width: 40%;
+  padding: 5%
+}
+
+.custom-select {
+  margin-bottom: 14px;
+}
+
+.btn { 
+  margin-left: 72%
+}
+
+#refresh {
+  padding-top: 4px;
+}
